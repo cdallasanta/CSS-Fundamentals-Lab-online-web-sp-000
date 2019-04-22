@@ -24,5 +24,6 @@ section#details {
   bottom:10px;
 }
 section#details div {
+  position:absolute;
   text-align: center;
 }
