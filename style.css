@@ -22,7 +22,7 @@ section#details {
   display: flex;
   justify-content: space-around;
   position:relative;
-  bottom:10px;
+  bottom:0px;
 }
 section#details div {
   text-align: center;
