@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align:center;
+}
+header nav a {
+  background:lightgrey;
+}
+section#featured-property {
+  text-align: center;
+  width:70%;
+  margin:auto;
+}
+section img {
+  width:100%
+}
+section#details {
+  background: red;
+  display: flex;
+  
+}
