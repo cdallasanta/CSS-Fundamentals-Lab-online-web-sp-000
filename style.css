@@ -20,5 +20,5 @@ section img {
 section#details {
   background: red;
   display: flex;
-  
+  justify-content: space-around;
 }
