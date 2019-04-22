@@ -22,3 +22,6 @@ section#details {
   display: flex;
   justify-content: space-around;
 }
+section#details div {
+  text-align: center;
+}
